@@ -1,0 +1,23 @@
+#!/bin/bash
+
+echo "*************************************************"
+echo "----------Welcome to Word Search 1000!-----------"
+echo "*************************************************"
+
+echo ""
+echo ""
+
+echo "To play game, enter in coordinates for the first and last"
+echo "letter of the word starting from top left corner as 11!"
+
+echo ""
+echo ""
+
+while read line; do
+	echo "${line}"
+done < wordPuzzle
+
+
+
+
+
