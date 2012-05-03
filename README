@@ -1,0 +1,11 @@
+Contributors:
+
+Kevin Nelson
+Zachary Cabot
+
+
+Kevin created the gui interface that will launch when you type in the gui command.  This is still in progress as we speak.
+
+Zach helped kevin create the bash scripts to link with the gui and to run in the command window if people do not have the gui software installed.
+
+There still is some work that needs to be done.  We need to be able to find words in the command line, as well as be able to remove words that were found from the unfound words list so the user can obtain an up to date list of the words that still need to be found.  We also need to implement how the user will enter in the coordinates of the word into the command line to remove that word from the list and to update the information to a word that was found.
